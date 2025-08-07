@@ -1,5 +1,7 @@
 flask
+gunicorn
 torch
 torchvision
 opencv-python
 numpy
+
